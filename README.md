@@ -1,4 +1,4 @@
-# Hi there, It's Ravi 2720! 👋
+# Hi there, It's ravi2720! 👋
 
 I'm a passionate backend .NET developer with a knack for building robust and scalable solutions. Welcome to my GitHub profile! Here, you'll find a collection of projects and code that reflect my journey in the world of software development.
 
