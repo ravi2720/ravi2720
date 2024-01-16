@@ -1,4 +1,4 @@
-# Hi there, It's ravi2720! 👋
+# Hi there, It's Ravi! 👋
 
 I'm a passionate backend .NET developer with a knack for building robust and scalable solutions. Welcome to my GitHub profile! Here, you'll find a collection of projects and code that reflect my journey in the world of software development.
 
@@ -27,8 +27,8 @@ I'm currently honing my skills in [specific area or technology you are currently
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Ravi 2720](https://www.linkedin.com/in/ravi2720/)
-- Email: your.email@example.com
+- LinkedIn: [Ravi Sharma](https://www.linkedin.com/in/ravi-sharma-1b4169158)
+- Email: ravi.sharma2720@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project!
 
